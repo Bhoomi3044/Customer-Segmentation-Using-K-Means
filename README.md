@@ -19,9 +19,8 @@ Sex: Gender of the customer (0 = male, 1 = female)
 
 ## Table of Content
 
-Import Libraries
-
-Data Preparation
+1.1 Import Libraries
+1.2 Data Preparation
 
 2.1 - Read Data
 2.2 - Check the Data Type
